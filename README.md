@@ -1,9 +1,9 @@
 # harshitha-demo
 This is my first GitHub repository
 This includes the code which I used for the blind stick project in my college for Engineers Day exhibition 
+
 #include <SoftwareSerial.h>
 #include <TinyGPS++.h>
-
 // Pin definitions
 const int trigPin = 9;
 const int echoPin = 10;
