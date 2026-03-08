@@ -1,4 +1,4 @@
-# harshitha-demo
+# Smart Blind Stick 
 This is my first GitHub repository
 This includes the code which I used for the blind stick project in my college for Engineers Day exhibition 
 
